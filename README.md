@@ -1,2 +1,6 @@
 # 3MTT-GIT-ASSIGNMENT
-My 3MTT assignment
+Steps to Create a README file in Git
+Navigate to your project Directory
+create the README.md File
+Open the README file
+
